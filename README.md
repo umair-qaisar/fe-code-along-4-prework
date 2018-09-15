@@ -10,7 +10,7 @@ Building upon previous code alongs, in this exercise you will add column structu
 2. Use Terminal to clone your forked copy.
 3. Then change directory into the repository folder.
 4. Code along with the provided video below and/or its supplementary reading located below the video. Code everything you see there. Feel free to stop, pause, rewind or fast forward through the content to keep pace.
-
+d
 <iframe width="100%" height="720" src="//www.youtube.com/embed/zZpAqtEXse0?rel=0&amp;controls=1&amp;showinfo=1" frameborder="0" allowfullscreen></iframe>
 
 ### Building Layouts
