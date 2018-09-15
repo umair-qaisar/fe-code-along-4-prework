@@ -10,7 +10,7 @@ Building upon previous code alongs, in this exercise you will add column structu
 2. Use Terminal to clone your forked copy.
 3. Then change directory into the repository folder.
 4. Code along with the provided video below and/or its supplementary reading located below the video. Code everything you see there. Feel free to stop, pause, rewind or fast forward through the content to keep pace.
-
+d
 <iframe width="100%" height="720" src="//www.youtube.com/embed/zZpAqtEXse0?rel=0&amp;controls=1&amp;showinfo=1" frameborder="0" allowfullscreen></iframe>
 
 ### Building Layouts
@@ -59,9 +59,9 @@ The "wrapper" class is going to help us to center content in a common parent ele
 
 <div class="wrapper">
   <section id="featured-property">...</section>
-  
+
   ...
-  
+
   <section id="news">...</section>
 </div><!-- .wrapper -->
 
@@ -73,9 +73,9 @@ Lastly, we will add a wrapper div within the details section.
 ```html
 <section id="details">
   <div class="wrapper">
-     
+
      ...
-     
+
   </div><!-- .wrapper -->
 </section>
 ```
@@ -194,7 +194,7 @@ Next in the promotional and news sections we will give the promotional section a
   <section id="promotional" class="col-2 first">
     ...
   </section>
-  
+
   <section id="news" class="col-1">
     ...
   </section>
@@ -235,7 +235,7 @@ To start add this clearfix code to the bottom of your CSS file:
   line-height: 0;
 }
 ```
-Don't forget to save the CSS page. If you're still a bit puzzled by this, there is much more detail on this snippet of code in previous lessons. 
+Don't forget to save the CSS page. If you're still a bit puzzled by this, there is much more detail on this snippet of code in previous lessons.
 
 Next we will apply this clearfix to some of our wrappers in the index page such as the main wrapper that wraps the sections such as featured property, promotional, and news sections.
 
